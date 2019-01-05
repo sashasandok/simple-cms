@@ -2,7 +2,7 @@
 import React from 'react'
 
 // styles
-import './noFound.css'
+import './NoFound.css'
 
 const NoFound = () => {
   return (

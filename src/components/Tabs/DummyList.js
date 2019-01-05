@@ -13,7 +13,7 @@ import { getTabs } from '../../actions/tabs-actions'
 import _ from 'lodash'
 
 // styles
-import './styles/dummyList.css'
+import './styles/DummyList.css'
 
 class DummyList extends Component {
   componentDidMount = () => {

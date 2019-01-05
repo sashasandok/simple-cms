@@ -6,3 +6,7 @@
   justify-content: center;
   align-items: center;
 }
+
+.chart div {
+  margin-bottom: 70px;
+}

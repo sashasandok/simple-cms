@@ -20,15 +20,15 @@ import { getTabs } from '../actions/tabs-actions'
 import _ from 'lodash'
 
 // styles
-import './app.css'
+import './App.css'
 
 // route components
-import NoFound from './noFound/noFound'
-import DummyTable from './tabs/dummyTable'
-import DummyChart from './tabs/dummyChart'
-import DummyList from './tabs/dummyList'
+import NoFound from './NoFound/NoFound'
+import DummyTable from './Tabs/DummyTable'
+import DummyChart from './Tabs/DummyChart'
+import DummyList from './Tabs/DummyList'
 
-import Loader from './loader/loader'
+import Loader from './Loader/Loader'
 
 class App extends Component {
   state = {
